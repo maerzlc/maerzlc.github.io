@@ -18,8 +18,11 @@ Cloud & Infrastructure Architect
 ☁️ Cloud infrastructure (public, private and hybrid) 
 
 Cloud architect with background in infrastructure and networking. 
+
 Focused on creating stable and secure services. 
+
 Currently living in Germany but open to relocation. 
+
 Right to work in any EU country and Indonesia. 
 
 ### Specialized in
