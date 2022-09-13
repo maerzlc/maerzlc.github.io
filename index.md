@@ -24,7 +24,7 @@ Focused on creating stable and secure services.
 Currently living in Germany but open to relocation. 
 Right to work in any EU country and Indonesia. 
 
-### Specializes in
+## Specializes in
 
 Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
 
