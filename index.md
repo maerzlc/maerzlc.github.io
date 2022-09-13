@@ -1,91 +1,104 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Larson März's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Larson März
+Cloud & Infrastructure Architect
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hello@maerz.lc">hello@maerz.lc</a>
+| <a href="https://maerz.lc">My website</a>
 </div>
 
 
-## Currently
+## About
 
-Standing on the shoulders of giants
+📍 Aachen, Germany (but open to move)
+☁️ Cloud infrastructure (public, private and hybrid)
+
+Cloud architect with background in infrastructure and networking.
+Focused on creating stable and secure services.
+Currently living in Germany but open to relocation.
+Right to work in any EU country and Indonesia.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
 
+## Experience
 
-### Research interests
+`Oct 2021 - current`
+__Networks & Infrastructure Architect__, German Edge Cloud
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Leading employees in delivery of edge computing appliances
+- Research & development to build a platform for autonomous edge computing appliances
+- Automating networking components using Ansible
+- Containerizing and monitoring infrastructure services
 
+`Dec 2020 - Aug 2021`
+__Infrastructure Engineer__, SVA System Vertrieb Alexander
+
+- Building hybrid cloud infrastructure based on Microsoft Azure
+- Developing Ansible roles for private cloud infrastructure
+- Utilizing Ansible Tower and Azure DevOps Services to automate and optimize deployments
+- Automate region-to-region migration of cloud resources by using scripting languages
+
+`Jul 2019 - Nov 2020`
+__Cloud Architect__, iTSM Group
+- Integrate cloud management and discovery in ServiceNow environment
+- Act as ‘link’ between customer and nearshore dev team (Romania) to facilitate development
+- Network and service discovery on the ServiceNow platform
+- Integration of service discovery and software catalog management in customer environment
+
+`Aug 2017 - Aug 2019`
+__Apprentice IT Specialist / Consultant__, ComConsult
+- Configuration of routers, switches, firewalls, VPN gateways
+- Hardening firewalls, defining policies with customers
+- Set up PoC on Azure for customers networking department
+- PoC for cross-location and road warrior compatible access to internal resources via Zscaler
+- Planning and setup of a virtualization platform (OpenStack) for use as internal private cloud
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019`
+__Certified IT Specialist__, IHK Aachen
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2016-2017`
+__Stay abroad__, Xi'An, Beijing
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2015`
+__A levels__, Städtisches Gymnasium Herzogenrath
 
 
+## Skills
 
-## Awards
+- Linux: Debian, Red Hat, NixOS
+- Virtualization: KVM/libvirt
+- Containerization: Docker, lxc
+- Networking: Cisco, Juniper, VyOS
+- Infrastructure as Code: Ansible, Terraform, dnscontrol
+- Automation: UIPath, Selenium
+- Version Control: git
+- ServiceNow
 
-`2012`
-President, *Royal Society*, London, UK
+## Certifications
 
-Associate, *French Academy of Science*, Paris, France
+Cisco Certified Network Associate Cybersecurity Operations (CCNA)
 
+PRINCE2 Practicioner
 
+PRINCE2 Foundation
 
-## Publications
+EF SET English Certificate: C2 Proficient
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Languages
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+German: Native
+English: Bilingual
+Dutch: Intermediate
+Indonesian: Basic
+Mandarin Chinese: Basic
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: September 2022 -->
