@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Larson März's CV
+title: Larson C. März's CV
 ---
-# Larson März
+# Larson C. März
 Cloud & Infrastructure Architect
 
 <div id="webaddress">
@@ -10,12 +10,13 @@ Cloud & Infrastructure Architect
 | <a href="https://maerzlc.github.io">My website</a>
 </div>
 
+## In short
+
+- 📍 Aachen, Germany (but open to move) 
+- ☁️ Cloud infrastructure (public, private and hybrid)
+- 🏡 Works remotely
 
 ## About
-
-📍 Aachen, Germany (but open to move) 
-
-☁️ Cloud infrastructure (public, private and hybrid) 
 
 Cloud architect with background in infrastructure and networking. 
 
