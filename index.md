@@ -103,7 +103,7 @@ English: Bilingual
 
 Dutch: Intermediate
 
-Indonesian: Basic
+Indonesian: Intermediate
 
 Mandarin Chinese: Basic
 
