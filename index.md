@@ -101,12 +101,12 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Languages
 
-<pre>|:-:|:-:|
-|__German__|Native|
-|__English__|Native|
-|__Dutch__|Intermediate|
-|__Indonesian__|Intermediate|
-|__Mandarin__|Basic|</pre>
+<pre>
+__German__:     Native
+__English__:    Native
+__Dutch__:      Intermediate
+__Indonesian__: Intermediate
+__Mandarin__:   Basic</pre>
 
 
 <!-- ### Footer
