@@ -14,6 +14,7 @@ Cloud & Infrastructure Architect
 ## About
 
 📍 Aachen, Germany (but open to move) 
+
 ☁️ Cloud infrastructure (public, private and hybrid) 
 
 Cloud architect with background in infrastructure and networking. 
