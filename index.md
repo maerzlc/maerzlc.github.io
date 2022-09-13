@@ -107,6 +107,15 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __Indonesian__: &emsp; Intermediate
 - __Mandarin Chinese__: &emsp; Basic
 
+|**Language**|Level|
+|--------|-----|
+|__German__|Native|
+|__English__|Native|
+|__Dutch__|Intermediate|
+|__Indonesian__|Intermediate|
+|__Mandarin Chinese__|Basic|
+
+
 <!-- ### Footer
 
 Last updated: September 2022 -->
