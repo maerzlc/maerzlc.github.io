@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Larson C. März's
+title: Larson C. März
 ---
 # Larson C. März
 Cloud & Infrastructure Architect
@@ -75,14 +75,14 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Skills
 
-- Linux: Debian, Red Hat, NixOS
-- Virtualization: KVM/libvirt
-- Containerization: Docker, lxc
-- Networking: Cisco, Juniper, VyOS
-- Infrastructure as Code: Ansible, Terraform, dnscontrol
-- Automation: UIPath, Selenium
-- Version Control: git
-- ServiceNow
+- __Linux__: Debian, Red Hat, NixOS
+- __Virtualization__: KVM/libvirt
+- __Containerization__: Docker, lxc
+- __Networking__: Cisco, Juniper, VyOS
+- __Infrastructure as Code__: Ansible, Terraform, dnscontrol
+- __Automation__: UIPath, Selenium
+- __Version Control__: git
+- __ServiceNow__: ITOM, Service Discovery, Cloud Management
 
 ## Certifications
 
@@ -96,15 +96,15 @@ EF SET English Certificate: C2 Proficient
 
 ## Languages
 
-German: Native
+__German__: Native
 
-English: Bilingual
+__English__: Native
 
-Dutch: Intermediate
+__Dutch__: Intermediate
 
-Indonesian: Intermediate
+__Indonesian__: Intermediate
 
-Mandarin Chinese: Basic
+__Mandarin Chinese__: Basic
 
 <!-- ### Footer
 
