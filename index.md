@@ -24,7 +24,7 @@ Focused on creating stable and secure services.
 Currently living in Germany but open to relocation. 
 Right to work in any EU country and Indonesia. 
 
-### Specialized in
+### Specializes in
 
 Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
 
@@ -96,15 +96,11 @@ EF SET English Certificate: C2 Proficient
 
 ## Languages
 
-__German__: Native
-
-__English__: Native
-
-__Dutch__: Intermediate
-
-__Indonesian__: Intermediate
-
-__Mandarin Chinese__: Basic
+- __German__: Native
+- __English__: Native
+- __Dutch__: Intermediate
+- __Indonesian__: Intermediate
+- __Mandarin Chinese__: Basic
 
 <!-- ### Footer
 
