@@ -20,7 +20,6 @@ Cloud & Infrastructure Architect
 
 Cloud architect with background in infrastructure and networking. 
 Focused on creating stable and secure services. 
-
 Currently living in Germany but open to relocation. 
 Right to work in any EU country and Indonesia. 
 
@@ -31,7 +30,7 @@ Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and i
 ## Experience
 
 `2021 - current`
-__Networks & Infrastructure Architect__, German Edge Cloud
+__Networks & Infrastructure Architect__, [German Edge Cloud](https://gec.io/)
 
 - Leading employees in delivery of edge computing appliances
 - Research & development to build a platform for autonomous edge computing appliances
@@ -39,7 +38,7 @@ __Networks & Infrastructure Architect__, German Edge Cloud
 - Containerizing and monitoring infrastructure services
 
 `2020 - 2021`
-__Infrastructure Engineer__, SVA System Vertrieb Alexander
+__Infrastructure Engineer__, [SVA System Vertrieb Alexander](https://sva.de/)
 
 - Building hybrid cloud infrastructure based on Microsoft Azure
 - Developing Ansible roles for private cloud infrastructure
@@ -47,14 +46,14 @@ __Infrastructure Engineer__, SVA System Vertrieb Alexander
 - Automate region-to-region migration of cloud resources by using scripting languages
 
 `2019 - 2020`
-__Cloud Architect__, iTSM Group
+__Cloud Architect__, [iTSM Group](https://itsmgroup.com)
 - Integrate cloud management and discovery in ServiceNow environment
 - Act as ‘link’ between customer and nearshore dev team (Romania) to facilitate development
 - Network and service discovery on the ServiceNow platform
 - Integration of service discovery and software catalog management in customer environment
 
 `2017 - 2019`
-__Apprentice IT Specialist / Consultant__, ComConsult
+__Apprentice IT Specialist / Consultant__, [ComConsult](https://comconsult.com)
 - Configuration of routers, switches, firewalls, VPN gateways
 - Hardening firewalls, defining policies with customers
 - Set up PoC on Azure for customers networking department
@@ -81,32 +80,32 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Skills
 
-- __Linux__: Debian, Red Hat, NixOS
-- __Virtualization__: KVM/libvirt
-- __Containerization__: Docker, lxc
-- __Networking__: Cisco, Juniper, VyOS
-- __Infrastructure as Code__: Ansible, Terraform, dnscontrol
-- __Automation__: UIPath, Selenium
-- __Version Control__: git
-- __ServiceNow__: ITOM, Service Discovery, Cloud Management
+- __Linux__: &emsp; Debian, Red Hat, NixOS
+- __Virtualization__: &emsp; KVM/libvirt
+- __Containerization__: &emsp; Docker, lxc
+- __Networking__: &emsp; Cisco, Juniper, VyOS
+- __Infrastructure as Code__: &emsp; Ansible, Terraform, dnscontrol
+- __Automation__: &emsp; UIPath, Selenium
+- __Version Control__: &emsp; git
+- __ServiceNow__: &emsp; ITOM, Service Discovery, Cloud Management
 
 ## Certifications
 
-Cisco Certified Network Associate Cybersecurity Operations (CCNA)
+**Cisco** Certified Network Associate Cybersecurity Operations (**CCNA**)
 
-PRINCE2 Practicioner
+**PRINCE2** Practicioner
 
-PRINCE2 Foundation
+**PRINCE2** Foundation
 
-EF SET English Certificate: C2 Proficient
+**EF SET** English Certificate: _C2 Proficient_
 
 ## Languages
 
-- __German__: Native
-- __English__: Native
-- __Dutch__: Intermediate
-- __Indonesian__: Intermediate
-- __Mandarin Chinese__: Basic
+- __German__: &emsp; Native
+- __English__: &emsp; Native
+- __Dutch__: &emsp; Intermediate
+- __Indonesian__: &emsp; Intermediate
+- __Mandarin Chinese__: &emsp; Basic
 
 <!-- ### Footer
 
