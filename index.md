@@ -97,7 +97,7 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 **PRINCE2** Foundation
 
-**EF SET** English Certificate: _C2 Proficient_
+**EF SET** English Certificate: C2 Proficient
 
 ## Languages
 
