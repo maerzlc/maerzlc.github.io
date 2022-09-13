@@ -98,9 +98,13 @@ EF SET English Certificate: C2 Proficient
 ## Languages
 
 German: Native
+
 English: Bilingual
+
 Dutch: Intermediate
+
 Indonesian: Basic
+
 Mandarin Chinese: Basic
 
 <!-- ### Footer
