@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Larson C. März's CV
+title: Larson C. März's
 ---
 # Larson C. März
 Cloud & Infrastructure Architect
