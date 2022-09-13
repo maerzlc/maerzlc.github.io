@@ -65,13 +65,19 @@ __Apprentice IT Specialist / Consultant__, ComConsult
 
 `2019`
 __Certified IT Specialist__, IHK Aachen
+- Wrote whitepapers and presentations about network infrastructure and telecommunication protocols
+- Succeeded in gaining certification after attending Cisco networking seminars
+- Implemented automatic testing suite for customer web application using Selenium framework
+- Helped colleagues and classmates in learning to use Linux server operating systems 
 
 `2016-2017`
 __Stay abroad__, Xi'An, Beijing
+- Taught English to children and adults
+- Held seminars at universities in Qingdao and Shijiazhuang for German studies majors
 
 `2015`
 __A levels__, Städtisches Gymnasium Herzogenrath
-
+- Advanced courses: English and German
 
 ## Skills
 
