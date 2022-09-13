@@ -100,8 +100,8 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 **EF SET** English Certificate: C2 Proficient
 
 ## Languages
-|          |      |
-|----------|------|
+|   |   |
+|---|---|
 |__German__|Native|
 |__English__|Native|
 |__Dutch__|Intermediate|
