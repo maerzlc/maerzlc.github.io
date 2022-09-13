@@ -85,7 +85,7 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __Containerization__: &emsp; Docker, lxc
 - __Networking__: &emsp; Cisco, Juniper, VyOS
 - __Infrastructure as Code__: &emsp; Ansible, Terraform, dnscontrol
-- __Automation__: &emsp; UIPath, Selenium
+- __Automation__: &emsp; Bash, Selenium, UIPath, Huginn
 - __Version Control__: &emsp; git
 - __ServiceNow__: &emsp; ITOM, Service Discovery, Cloud Management
 
