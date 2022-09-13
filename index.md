@@ -7,7 +7,7 @@ Cloud & Infrastructure Architect
 
 <div id="webaddress">
 <a href="mailto:hello@maerz.lc">hello@maerz.lc</a>
-| <a href="https://maerz.lc">My website</a>
+| <a href="https://maerzlc.github.io">My website</a>
 </div>
 
 
