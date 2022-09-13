@@ -6,7 +6,7 @@ title: Larson März's CV
 Cloud & Infrastructure Architect
 
 <div id="webaddress">
-<a href="hello@maerz.lc">hello@maerz.lc</a>
+<a href="mailto:hello@maerz.lc">hello@maerz.lc</a>
 | <a href="https://maerz.lc">My website</a>
 </div>
 
