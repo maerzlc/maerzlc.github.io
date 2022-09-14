@@ -79,7 +79,6 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Skills
 
-### Tehnical
 - __Linux__: Debian, Red Hat, NixOS
 - __Virtualization__: KVM/libvirt
 - __Containerization__: Docker, lxc
@@ -92,7 +91,6 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __DNS__: PowerDNS, bind9
 - __Proxies__: HAProxy, Caddy, traefik
 
-### Soft
 - __Team work__:
   - Agile team work
   - Cross-functional team development
