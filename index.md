@@ -18,10 +18,9 @@ Cloud & Infrastructure Architect
 
 ## About
 
-Cloud architect with background in infrastructure and networking. 
-Focused on creating stable and secure services. 
-Currently living in Germany but open to relocation. 
-Right to work in any EU country and Indonesia. 
+I am a cloud architect and have a background in infrastructure and networking.
+My focus lies on creating stable and secure services, automating infrastructure services and monitoring. 
+I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
 
 ## Specializes in
 
