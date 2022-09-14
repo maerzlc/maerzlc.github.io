@@ -90,13 +90,10 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Certifications
 
-**Cisco** Certified Network Associate Cybersecurity Operations (**CCNA**)
-
-**PRINCE2** Practicioner
-
-**PRINCE2** Foundation
-
-**EF SET** English Certificate: C2 Proficient
+- **Cisco** Certified Network Associate Cybersecurity Operations (**CCNA**)
+- **PRINCE2** Practicioner
+- **PRINCE2** Foundation
+- **EF SET** English Certificate: C2 Proficient
 
 ## Languages
 
