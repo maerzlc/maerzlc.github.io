@@ -86,7 +86,6 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __Infrastructure as Code__: Ansible, Terraform, dnscontrol
 - __Automation__: Bash, Selenium, UIPath, Huginn
 - __Version Control__: git
-- __ServiceNow__: ITOM, Service Discovery, Cloud Management
 - __ServiceNow__: ITOM, Cloud Management, Service Discovery
 - __DNS__: PowerDNS, bind9
 - __Proxies__: HAProxy, Caddy, traefik
