@@ -25,7 +25,7 @@ I live in Germany at the moment, but would be happy to relocate: I have the righ
 ## Motivation
 
 My experience in consulting and engineering in different cloud environments gives me deep insights into infrastructure. 
-I'm looking to focus on architecture tasks in my next role. Quite familiar with customer communication and leading development tasks.
+I'm looking to focus on architecture tasks in my next role. Designing integrated solutions and project work are my preference.
 
 ## Specializes in
 
