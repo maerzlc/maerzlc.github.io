@@ -90,7 +90,7 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __DNS__: PowerDNS, bind9
 - __Proxies__: HAProxy, Caddy, traefik
 - __Team work__: Agile, cross-functional development and troubleshooting
-- __Customer care__: Identify customer demands, communicate to dev team, maintain client contact during implementation
+- __Customer care__: Identify customer demands, communicate to dev team, maintain client contact
 
 ## Certifications
 
