@@ -80,14 +80,14 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Skills
 
-- __Linux__: &emsp; Debian, Red Hat, NixOS
-- __Virtualization__: &emsp; KVM/libvirt
-- __Containerization__: &emsp; Docker, lxc
-- __Networking__: &emsp; Cisco, Juniper, VyOS
-- __Infrastructure as Code__: &emsp; Ansible, Terraform, dnscontrol
-- __Automation__: &emsp; Bash, Selenium, UIPath, Huginn
-- __Version Control__: &emsp; git
-- __ServiceNow__: &emsp; ITOM, Service Discovery, Cloud Management
+- __Linux__: Debian, Red Hat, NixOS
+- __Virtualization__: KVM/libvirt
+- __Containerization__: Docker, lxc
+- __Networking__: Cisco, Juniper, VyOS
+- __Infrastructure as Code__: Ansible, Terraform, dnscontrol
+- __Automation__: Bash, Selenium, UIPath, Huginn
+- __Version Control__: git
+- __ServiceNow__: ITOM, Service Discovery, Cloud Management
 
 ## Certifications
 
@@ -101,11 +101,11 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Languages
 
-- __German__: <span style="padding-left:4em">Native</span>
-- __English__: <span style="padding-left:4em">Native</span>
-- __Dutch__: <span style="padding-left:4em">Intermediate</span>
-- __Indonesian__: <span style="padding-left:4em">Intermediate</span>
-- __Mandarin__: <span style="padding-left:4em">Basic</span>
+- __German__: Native
+- __English__: Native
+- __Dutch__: Intermediate
+- __Indonesian__: Intermediate
+- __Mandarin__: Basic
 
 
 <!-- ### Footer
