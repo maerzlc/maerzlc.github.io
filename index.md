@@ -96,7 +96,7 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __Team work__:
   - Agile team work
   - Cross-functional team development
-- __Customer care/Consulting__:
+- __Customer care and consulting__:
   - Identify customer demands
   - Interpret demands as technical/development requirements
   - Communicate development goals to dev team
