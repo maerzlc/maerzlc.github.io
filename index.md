@@ -18,7 +18,7 @@ Cloud & Infrastructure Architect
 
 ## About
 
-I am a cloud architect and have a background in infrastructure and networking.
+I am a cloud architect who has a background in infrastructure and network consulting.
 My focus lies on creating stable and secure services, automating infrastructure services and monitoring. 
 I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
 
@@ -89,17 +89,8 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __ServiceNow__: ITOM, Cloud Management, Service Discovery
 - __DNS__: PowerDNS, bind9
 - __Proxies__: HAProxy, Caddy, traefik
-
-
-- __Team work__:
-  - Agile team work
-  - Cross-functional team development
-
-- __Customer care and consulting__:
-  - Identify customer demands
-  - Interpret demands as technical/development requirements
-  - Communicate development goals to dev team
-  - Maintain client contact during and after implementation
+- __Team work__: Agile, cross-functional development and troubleshooting
+- __Customer care__: Identify customer demands, communicate to dev team, maintain client contact during implementation
 
 ## Certifications
 
