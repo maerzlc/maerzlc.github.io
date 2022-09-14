@@ -79,6 +79,7 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Skills
 
+### Tehnical
 - __Linux__: Debian, Red Hat, NixOS
 - __Virtualization__: KVM/libvirt
 - __Containerization__: Docker, lxc
@@ -90,10 +91,12 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __ServiceNow__: ITOM, Cloud Management, Service Discovery
 - __DNS__: PowerDNS, bind9
 - __Proxies__: HAProxy, Caddy, traefik
-- __Team work__
+
+### Soft
+- __Team work__:
   - Agile team work
   - Cross-functional team development
-- __Customer care__
+- __Customer care__:
   - Identify customer demands
   - Interpret demands as technical/development requirements
   - Communicate development goals to dev team
