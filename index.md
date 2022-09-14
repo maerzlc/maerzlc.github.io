@@ -11,19 +11,30 @@ Cloud & Infrastructure Architect
 </div>
 
 
-## About
+## In short
 
 📍 Aachen, Germany (but open to move)
 ☁️ Cloud infrastructure (public, private and hybrid)
+🏡 Works remotely
 
-Cloud architect with background in infrastructure and networking.
-Focused on creating stable and secure services.
-Currently living in Germany but open to relocation.
-Right to work in any EU country and Indonesia.
+
+## About
+
+I am a cloud architect and have a background in infrastructure and networking. My focus lies on creating stable and secure services, automating infrastructure services and monitoring.
+
+I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
+
 
 ### Specialized in
 
 Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
+
+
+### My motivation
+
+Pushing into architecture roles, building platforms instead of desert islands.
+Cloud engineering and solution architecture.
+
 
 ## Experience
 
@@ -58,6 +69,7 @@ __Apprentice IT Specialist / Consultant__, ComConsult
 - PoC for cross-location and road warrior compatible access to internal resources via Zscaler
 - Planning and setup of a virtualization platform (OpenStack) for use as internal private cloud
 
+
 ## Education
 
 `2019`
@@ -74,30 +86,41 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 - Linux: Debian, Red Hat, NixOS
 - Virtualization: KVM/libvirt
-- Containerization: Docker, lxc
+- Containerization: Docker, Podman, lxc
 - Networking: Cisco, Juniper, VyOS
 - Infrastructure as Code: Ansible, Terraform, dnscontrol
 - Automation: UIPath, Selenium
 - Version Control: git
-- ServiceNow
+- ServiceNow: ITOM, Cloud Management, Service Discovery
+- DNS: PowerDNS, bind9
+- Proxies: HAProxy, Caddy, traefik
+- Team work
+  - Agile team work
+  - Cross-functional team development
+- Customer care
+  - Identify customer demands
+  - Interpret demands as technical/development requirements
+  - Communicate development goals to dev team
+  - Maintain client contact during and after implementation
+
 
 ## Certifications
 
-Cisco Certified Network Associate Cybersecurity Operations (CCNA)
+- **Cisco** Certified Network Associate Cybersecurity Operations (**CCNA**)
+- **PRINCE2** Practicioner
+- **PRINCE2** Foundation
+- **EBDF** Enterprise Big Data Professional
+- **EF SET** English Certificate: C2 Proficient
+- **CCNA** Introduction to Networking
 
-PRINCE2 Practicioner
-
-PRINCE2 Foundation
-
-EF SET English Certificate: C2 Proficient
 
 ## Languages
 
-German: Native
-English: Bilingual
-Dutch: Intermediate
-Indonesian: Basic
-Mandarin Chinese: Basic
+- **German:** Native
+- **English:** Bilingual
+- **Dutch:** Intermediate
+- **Indonesian:** Basic
+- **Mandarin Chinese:** Basic
 
 <!-- ### Footer
 
