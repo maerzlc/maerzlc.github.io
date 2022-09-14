@@ -22,9 +22,14 @@ I am a cloud architect who has a background in infrastructure and network consul
 My focus lies on creating stable and secure services, automating infrastructure services and monitoring. 
 I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
 
+## Motivation
+
+My experience in consulting and engineering in different cloud environments gives me deep insights into infrastructure. 
+I'm looking to focus on architecture tasks in my next role. Quite familiar with customer communication and leading development tasks.
+
 ## Specializes in
 
-Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
+Cloud and network infrastructure, automation. Infrastructure as Code, DNS (and its obscurities), security best practices.
 
 ## Experience
 
