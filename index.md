@@ -87,13 +87,26 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - __Automation__: Bash, Selenium, UIPath, Huginn
 - __Version Control__: git
 - __ServiceNow__: ITOM, Service Discovery, Cloud Management
+- __ServiceNow__: ITOM, Cloud Management, Service Discovery
+- __DNS__: PowerDNS, bind9
+- __Proxies__: HAProxy, Caddy, traefik
+- __Team work__
+  - Agile team work
+  - Cross-functional team development
+- __Customer care__
+  - Identify customer demands
+  - Interpret demands as technical/development requirements
+  - Communicate development goals to dev team
+  - Maintain client contact during and after implementation
 
 ## Certifications
 
 - **Cisco** Certified Network Associate Cybersecurity Operations (**CCNA**)
 - **PRINCE2** Practicioner
 - **PRINCE2** Foundation
+- **EBDF** Enterprise Big Data Professional
 - **EF SET** English Certificate: C2 Proficient
+- **CCNA** Introduction to Networking
 
 ## Languages
 
