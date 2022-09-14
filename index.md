@@ -101,6 +101,13 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Languages
 
+|---|---|
+|German|Native|
+|English|Native|
+|Dutch|Intermediate|
+|Indonesian|Intermediate|
+|Mandarin|Basic|
+
 - __German__:    Native
 - __English__:    Native
 - __Dutch__:    Intermediate
