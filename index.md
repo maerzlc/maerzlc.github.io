@@ -101,12 +101,25 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 ## Languages
 
-|---|---|
-|German|Native|
-|English|Native|
-|Dutch|Intermediate|
-|Indonesian|Intermediate|
-|Mandarin|Basic|
+<div id="languages">
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Contact</th>
+    <th>Country</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table> 
+</div>
 
 - __German__:    Native
 - __English__:    Native
