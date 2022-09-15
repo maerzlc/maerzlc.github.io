@@ -6,8 +6,8 @@ title: Larson C. März
 Cloud & Infrastructure Architect
 
 <div id="webaddress">
-<a href="mailto:hello@maerz.lc">hello@maerz.lc</a>
-| <a href="https://maerzlc.github.io">My website</a>
+<a href="mailto:hello@maerz.lc">Email: hello@maerz.lc</a>
+| <a href="https://maerzlc.github.io">Website</a>
 </div>
 
 ## In short
