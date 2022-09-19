@@ -33,7 +33,7 @@ Cloud and network infrastructure, automation. Infrastructure as Code, DNS (and i
 
 ## Experience
 
-`2021 - current`
+`Current`
 __Networks & Infrastructure Architect__, [German Edge Cloud](https://gec.io/)
 
 - Leading employees in delivery of edge computing appliances
@@ -41,7 +41,7 @@ __Networks & Infrastructure Architect__, [German Edge Cloud](https://gec.io/)
 - Automating networking components using Ansible
 - Containerizing and monitoring infrastructure services
 
-`2020 - 2021`
+`2019`
 __Infrastructure Engineer__, [SVA System Vertrieb Alexander](https://sva.de/)
 
 - Building hybrid cloud infrastructure based on Microsoft Azure
@@ -49,14 +49,14 @@ __Infrastructure Engineer__, [SVA System Vertrieb Alexander](https://sva.de/)
 - Utilizing Ansible Tower and Azure DevOps Services to automate and optimize deployments
 - Automate region-to-region migration of cloud resources by using scripting languages
 
-`2019 - 2020`
+`2017`
 __Cloud Architect__, [iTSM Group](https://itsmgroup.com)
 - Integrate cloud management and discovery in ServiceNow environment
 - Act as ‘link’ between customer and nearshore dev team (Romania) to facilitate development
 - Network and service discovery on the ServiceNow platform
 - Integration of service discovery and software catalog management in customer environment
 
-`2017 - 2019`
+`2016`
 __Apprentice IT Specialist / Consultant__, [ComConsult](https://comconsult.com)
 - Configuration of routers, switches, firewalls, VPN gateways
 - Hardening firewalls, defining policies with customers
