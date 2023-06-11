@@ -13,32 +13,40 @@ Cloud & Infrastructure Architect
 
 ## In short
 
-📍 Aachen, Germany (but open to move)
-☁️ Cloud infrastructure (public, private and hybrid)
-🏡 Works remotely
+📍 Zürich, Switzerland
+☁️  Cloud and systems infrastructure
+🏡 Hybrid remote
 
 
 ## About
 
 I am a cloud architect and have a background in infrastructure and networking. My focus lies on creating stable and secure services, automating infrastructure services and monitoring.
 
-I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
+I live and work primarily in Switzerland.
 
 
 ### Specialized in
 
-Cloud and network infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
+Cloud and systems infrastructure, automation, Infrastructure as Code, DNS (and its obscurities), version control, security best practices.
 
 
 ### My motivation
 
-Pushing into architecture roles, building platforms instead of desert islands.
-Cloud engineering and solution architecture.
+Gaining even more experience in architecture, building platforms instead of islands.
+I have a very wide and deep scope of projects or products.
 
 
 ## Experience
 
-`Oct 2021 - current`
+`Feb 2023 - today`
+__Systems Architect__, emineo AG
+
+- Designing and building a custom software project for a government institution
+- Technology in use: Java, Linux, k8s, ArgoCD, Gitlab CI...
+- Strong customer contact role, wide scope view of the project across all tenants
+- Architectural and process overview, consultating and forecasting functions
+
+`Oct 2021 - Jan 2023`
 __Networks & Infrastructure Architect__, German Edge Cloud
 
 - Leading employees in delivery of edge computing appliances
@@ -112,16 +120,17 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - **EBDF** Enterprise Big Data Professional
 - **EF SET** English Certificate: C2 Proficient
 - **CCNA** Introduction to Networking
-
+- **ecademy** Security Basics
+- **ecademy** Scrum for Developers
 
 ## Languages
 
 - **German:** Native
 - **English:** Bilingual
 - **Dutch:** Intermediate
-- **Indonesian:** Basic
+- **Indonesian:** Intermediate
 - **Mandarin Chinese:** Basic
 
 <!-- ### Footer
 
-Last updated: September 2022 -->
+Last updated: Juni 2023 -->
