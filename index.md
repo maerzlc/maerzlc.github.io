@@ -3,7 +3,7 @@ layout: cv
 title: Larson C. März
 ---
 # Larson C. März
-Cloud & Infrastructure Architect
+Systems & Cloud Architect
 
 <div id="webaddress">
 <a href="mailto:hello@maerz.lc">Email: hello@maerz.lc</a>
@@ -12,28 +12,35 @@ Cloud & Infrastructure Architect
 
 ## In short
 
-- 📍 Aachen, Germany (but open to move) 
-- ☁️ Cloud infrastructure (public, private and hybrid)
+- 📍 Regensdorf, Switzerland
+- ☁️ Systems & Cloud architecture
 - 🏡 Works remotely
 
 ## About
 
-I am a cloud architect who has a background in infrastructure and network consulting.
-My focus lies on creating stable and secure services, automating infrastructure services and monitoring. 
-I live in Germany at the moment, but would be happy to relocate: I have the right to work in all EU countries and Indonesia.
+I am a systems architect who has a background in infrastructure consulting and engineering
+My focus lies on creating stable and secure services, automating services and monitoring. 
+I live and work primarily in Switzerland.
 
 ## Motivation
 
-My experience in consulting and engineering in different cloud environments gives me deep insights into infrastructure. 
-I'm looking to focus on architecture tasks in my next role. I prefer to design integrated solutions and work in projects.
+Strongly focused on architecture, building integrated platforms instead of islands.
+I have a wide and deep scope of projects and products.
 
 ## Specializes in
 
-Cloud and network infrastructure, automation. Infrastructure as Code, DNS (and its obscurities), security best practices.
+Cloud and systems infrastructure, automation. Infrastructure as Code, DNS (and its obscurities), security.
 
 ## Experience
+`2023`:
+__Systems Architect__, emineo AG
 
-`Current`
+- Designing and building a custom software project for a government institution
+- Technology used: Java Linux, k8s, ArgoCD, Gitlab CI...
+- Strong customer contact role, wide scope of view of the project across tenants
+- Architectural and process focus, consulting and forecasting
+
+`2021`
 __Networks & Infrastructure Architect__, [German Edge Cloud](https://gec.io/)
 
 - Leading employees in delivery of edge computing appliances
@@ -105,6 +112,8 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 - **EBDF** Enterprise Big Data Professional
 - **EF SET** English Certificate: C2 Proficient
 - **CCNA** Introduction to Networking
+- **ecademy** Security Basics
+- **ecademy** Scrum for Developers
 
 ## Languages
 
@@ -117,4 +126,4 @@ __A levels__, Städtisches Gymnasium Herzogenrath
 
 <!-- ### Footer
 
-Last updated: September 2022 -->
+Last updated: June 2023 -->
