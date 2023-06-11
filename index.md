@@ -12,7 +12,7 @@ Systems & Cloud Architect
 
 ## In short
 
-- 📍 Regensdorf, Switzerland
+- 📍 Zúrich, Switzerland
 - ☁️ Systems & Cloud architecture
 - 🏡 Works remotely
 
