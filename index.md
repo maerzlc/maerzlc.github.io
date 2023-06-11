@@ -12,7 +12,7 @@ Systems & Cloud Architect
 
 ## In short
 
-- 📍 Zúrich, Switzerland
+- 📍 Zürich, Switzerland
 - ☁️ Systems & Cloud architecture
 - 🏡 Works remotely
 
