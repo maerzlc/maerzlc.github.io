@@ -13,8 +13,8 @@ Cloud & Infrastructure Architect
 
 ## In short
 
-📍 Zürich, Switzerland
-☁️  Cloud and systems infrastructure
+📍 Zürich, Switzerland 
+☁️  Cloud and systems infrastructure 
 🏡 Hybrid remote
 
 
