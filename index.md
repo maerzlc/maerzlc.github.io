@@ -32,8 +32,8 @@ I have a wide and deep scope of projects and products.
 Cloud and systems infrastructure, automation. Infrastructure as Code, DNS (and its obscurities), security.
 
 ## Experience
-`2023`:
-__Systems Architect__, emineo AG
+`2023`
+__Systems Architect__, [emineo AG](https://emineo.ch/)
 
 - Designing and building a custom software project for a government institution
 - Technology used: Java Linux, k8s, ArgoCD, Gitlab CI...
